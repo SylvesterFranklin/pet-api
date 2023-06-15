@@ -2,9 +2,99 @@
     "pets": [
         {
             "id": 1,
-            "name": "Dog NaturCroq  & Rice - 15 Kg",
-             "price": "2,000.00 ",
-             "image": "https://cdn.shopify.com/s/files/1/0025/1373/1702/products/GoldenYearsx10-WetFood_Bowl.png?v=1663057538"
+            "name": "Nick",
+            "Breed":"Labrador Retriever",
+            "Gender":"Male",
+            "Personality":"Friendly Dog",
+            "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.dogexpress.in%2Fwp-content%2Fuploads%2F2020%2F01%2FLabrador-Retriever.jpg&tbnid=SHB2Xs3r0i4g6M&vet=12ahUKEwjT6YKs9cX_AhXMLbcAHTyDDg4QMygFegUIARDiAQ..i&imgrefurl=https%3A%2F%2Fdogexpress.in%2Fbest-dog-breeds-for-single-men%2F&docid=66y_KyXNAkpyAM&w=1200&h=650&q=single%20dog%20&ved=2ahUKEwjT6YKs9cX_AhXMLbcAHTyDDg4QMygFegUIARDiAQ"
+        },
+        {
+            "id": 2,
+            "name": "Max",
+            "Breed":"Labrador Retriever",
+            "Gender":"Male",
+            "Personality":"Friendly and calm Dog",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_Labrador_Retrievers&psig=AOvVaw0mgb0LwWDLLKKSULE75wkt&ust=1686941074669000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDNnPL2xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 3,
+            "name": "Bella",
+            "Breed":"German Shepherd",
+            "Gender":"Female",
+            "Personality":" Intelligent, confident, and protective",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akc.org%2Fexpert-advice%2Fhealth%2Ftips-for-grooming-german-shepherd%2F&psig=AOvVaw1XRPGZnBVxi4h3x-QULh4d&ust=1686941183503000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPja4aX3xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 4,
+            "name": "Cooper",
+            "Breed":"Bull Dog",
+            "Gender":"Male",
+            "Personality":"Calm, courageous, and friendly",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBulldog&psig=AOvVaw2q_IaTI4zIy9SNA8dMg4-L&ust=1686941152798000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj2jMf3xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 5,
+            "name": "Zeus",
+            "Breed":"German Shepherd",
+            "Gender":"Male",
+            "Personality":" Intelligent, confident, and protective",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dogbreedinfo.com%2Fgermanshepherd.htm&psig=AOvVaw1XRPGZnBVxi4h3x-QULh4d&ust=1686941183503000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPja4aX3xf8CFQAAAAAdAAAAABBQ"
+        },
+        {
+            "id": 6,
+            "name": "Bailey",
+            "Breed":"Dachshund",
+            "Gender":"Male",
+            "Personality":"Lively, courageous, and clever",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fdachshund&psig=AOvVaw1_VdTKnkKpb2QRAUAxoIgh&ust=1686941165250000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDG38z4xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 7,
+            "name": "Molly",
+            "Breed":"Golden Retriever",
+            "Gender":"Male",
+            "Personality":"Gentle, friendly, and tolerant",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vidavetcare.com%2Fdog-breed%2Fgolden-retriever%2F&psig=AOvVaw2oDb-i-TKr8tG_SwfR-NYv&ust=1686941663194000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJidwor5xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 8,
+            "name": "Toby",
+            "Breed":"Rottweiler",
+            "Gender":"Male",
+            "Personality":"Confident, calm, and protective",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQFPkhWBCMG__t60W8L5ZlkHmgRkBiuM8zq-8-jsCD7d2WxR1meWMRTx8wgK0CvcNCygXy9irTJpojZhsc&psig=AOvVaw1jvPO1ZKaExCPhzR0IzaH2&ust=1686941159226000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjA9Z35xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 9,
+            "name": "Jack",
+            "Breed":"Golden Retriever",
+            "Gender":"Male",
+            "Personality":"Gentle, friendly, and tolerant",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpuppyintraining.com%2Fdo-golden-retriever-shed%2F&psig=AOvVaw2oDb-i-TKr8tG_SwfR-NYv&ust=1686941663194000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJidwor5xf8CFQAAAAAdAAAAABAJ"
+        },
+        {
+            "id": 10,
+            "name": "Rosie",
+            "Breed":"Rottweiler",
+            "Gender":"Male",
+            "Personality":" Confident, calm, and protective",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2FRottweiler&psig=AOvVaw2Ipr5OApvzWI7Bnqdo6_GZ&ust=1686941796589000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND4ksr5xf8CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 11,
+            "name": "Oliver",
+            "Breed":"Bulldog",
+            "Gender":"Male",
+            "Personality":"Calm, courageous, and friendly",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailypaws.com%2Fdogs-puppies%2Fdog-breeds%2Fbulldog&psig=AOvVaw2q_IaTI4zIy9SNA8dMg4-L&ust=1686941152798000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj2jMf3xf8CFQAAAAAdAAAAABAK"
+        },
+        {
+            "id": 12,
+            "name": "Luna",
+            "Breed":"Labrador Retriever",
+            "Gender":"Male",
+            "Personality":"Friendly Dog",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FLabrador_Retriever&psig=AOvVaw0mgb0LwWDLLKKSULE75wkt&ust=1686941074669000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDNnPL2xf8CFQAAAAAdAAAAABAJ"
         }
     ]
 }
